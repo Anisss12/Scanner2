@@ -1,292 +1,747 @@
 [
   {
-    "barcode": "4857091035",
-    "design": "iojdkj",
-    "sizes": [
-      "lmmad"
-    ],
-    "colors": [
-      "aljkoa"
-    ],
-    "price": "198"
-  },
-  {
-    "barcode": "Dhjrh",
-    "design": "Jrhrh",
-    "sizes": [
-      "Ehhd",
-      "Dhhdhd",
-      "Dhdg"
-    ],
-    "colors": [
-      "Dhhdhd",
-      "Xbhd"
-    ],
-    "price": "465"
-  },
-  {
-    "barcode": "Dhhr",
-    "design": "Euhry",
-    "sizes": [
-      "Hehe"
-    ],
-    "colors": [
-      "Dhhdh"
-    ],
-    "price": "1656"
-  },
-  {
-    "barcode": "Dhhr",
-    "design": "Euhry",
-    "sizes": [
-      "Hehe"
-    ],
-    "colors": [
-      "Dhhdh"
-    ],
-    "price": "1656"
-  },
-  {
-    "barcode": "Dhhr",
-    "design": "Euhry",
-    "sizes": [
-      "Hehe"
-    ],
-    "colors": [
-      "Dhhdh"
-    ],
-    "price": "1656"
-  },
-  {
-    "barcode": "Dhhr",
-    "design": "Euhry",
-    "sizes": [
-      "Hehe",
-      "Ryr",
-      "Hdhd"
-    ],
-    "colors": [
-      "Dhhdh"
-    ],
-    "price": "1656"
-  },
-  {
-    "barcode": "Dhhr",
-    "design": "Euhry",
-    "sizes": [
-      "Hehe",
-      "Ryr",
-      "Hdhd"
-    ],
-    "colors": [
-      "Dhhdh"
-    ],
-    "price": "1656"
-  },
-  {
-    "barcode": "Hrhrh",
-    "design": "Hrhr",
-    "sizes": [
-      "Ehhr"
-    ],
-    "colors": [
-      "Hdhd"
-    ],
-    "price": "65656"
-  },
-  {
-    "barcode": "Hrhrh",
-    "design": "Hrhr",
-    "sizes": [
-      "Ehhr"
-    ],
-    "colors": [
-      "Hdhd"
-    ],
-    "price": "65656",
-    "date": "2025-03-18T10:16:38.896Z"
-  },
-  {
-    "barcode": "Hrhrh",
-    "design": "Hrhr",
-    "sizes": [
-      "Ehhr"
-    ],
-    "colors": [
-      "Hdhd"
-    ],
-    "price": "65656",
-    "date": "2025-03-18T10:17:45.654Z"
-  },
-  {
-    "barcode": "Jdjd",
-    "design": "Jejrh",
-    "sizes": [
-      "Hddh"
-    ],
-    "colors": [
-      "Hdhd"
-    ],
-    "price": "8665",
-    "date": "2025-03-18T10:18:05.660Z"
-  },
-  {
-    "barcode": "Hrhr",
-    "design": "Hehe",
-    "sizes": [
-      "Ehe"
-    ],
-    "colors": [
-      "Shhd"
-    ],
-    "price": "5656",
-    "date": "2025-03-18T10:19:52.537Z"
-  },
-  {
-    "barcode": "Hhrh",
-    "design": "Heheh",
-    "sizes": [
-      "Heh"
-    ],
-    "colors": [
-      "Dhhd"
-    ],
-    "price": "5665",
-    "date": "2025-03-18T10:20:11.213Z"
-  },
-  {
-    "barcode": ";kjs",
-    "design": ". D",
-    "sizes": [
-      "AAAS"
-    ],
-    "colors": [
-      "ASAS"
-    ],
-    "price": "121",
-    "date": "2025-03-18T10:20:50.515Z"
-  },
-  {
-    "barcode": "Hdhr",
-    "design": "Ehhrh",
-    "sizes": [
-      "Gdhd"
-    ],
-    "colors": [
-      "Hdhd"
-    ],
-    "price": "53",
-    "date": "2025-03-18T10:24:39.501Z"
-  },
-  {
-    "id": "KO9NxamFy_Q1j-CvRu42i",
-    "barcode": "Hdhr",
-    "design": "Ehhrh",
-    "sizes": [
-      "Gdhd"
-    ],
-    "colors": [
-      "Hdhd"
-    ],
-    "price": "53",
-    "date": "2025-03-18T10:27:11.431Z"
-  },
-  {
-    "id": "_kO99J011qWabMpMJkpeo",
-    "barcode": "Hdhr",
-    "design": "Ehhrh",
-    "sizes": [
-      "Gdhd"
-    ],
-    "colors": [
-      "Hdhd"
-    ],
-    "price": "53",
-    "date": "2025-03-18T10:27:15.686Z"
-  },
-  {
-    "id": "4G34LszsI3TIXlCNQUlxj",
-    "barcode": "Hdhr",
-    "design": "Ehhrh",
-    "sizes": [
-      "Gdhd"
-    ],
-    "colors": [
-      "Hdhd"
-    ],
-    "price": "53",
-    "date": "2025-03-18T10:27:17.250Z"
-  },
-  {
-    "id": "SnCc5R8zkFWBwRdgEdQ1w",
-    "barcode": "Hdhr",
-    "design": "Ehhrh",
-    "sizes": [
-      "Gdhd"
-    ],
-    "colors": [
-      "Hdhd"
-    ],
-    "price": "53",
-    "date": "2025-03-18T10:27:18.303Z"
-  },
-  {
-    "id": "20yk74vi4G8ojSha3BPOZ",
-    "barcode": "Hdhr",
-    "design": "Ehhrh",
-    "sizes": [
-      "Gdhd"
-    ],
-    "colors": [
-      "Hdhd"
-    ],
-    "price": "53",
-    "date": "2025-03-18T10:27:19.991Z"
-  },
-  {
-    "id": "YEN1aCMDlDpO6W33dqTG4",
-    "barcode": "485710135",
-    "design": "Khsjdbbd",
+    "id": "KMhrUt4m4mHWLbuJyatI",
+    "barcode": "foeslKi4",
+    "design": "Z01GG6",
     "sizes": [
       "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Blue"
+    ],
+    "price": "4396",
+    "date": "2025-01-24T20:14:50.628982Z"
+  },
+  {
+    "id": "Hba7AAzKjDyvHWuKy6u8",
+    "barcode": "C12788o9",
+    "design": "E3XKWS",
+    "sizes": [
+      "G"
+    ],
+    "colors": [
+      "Yellow",
+      "Purple"
+    ],
+    "price": "7490",
+    "date": "2024-10-10T20:14:50.629011Z"
+  },
+  {
+    "id": "Mi8scPt5H2aOk8yr0ef5",
+    "barcode": "jI9vZY02",
+    "design": "QFKWK0",
+    "sizes": [
+      "XL",
+      "Y"
+    ],
+    "colors": [
+      "Green",
+      "Black",
+      "Yellow"
+    ],
+    "price": "3562",
+    "date": "2024-09-14T20:14:50.629031Z"
+  },
+  {
+    "id": "f2CBSq9gcK4aont8UsQE",
+    "barcode": "YUlTzLIB",
+    "design": "54oJJx",
+    "sizes": [
+      "S",
       "XXL",
       "M"
     ],
     "colors": [
-      "Red",
+      "Purple",
       "Green",
       "Blue"
     ],
-    "price": "250",
-    "date": "2025-03-18T12:18:14.665Z"
+    "price": "196",
+    "date": "2024-07-25T20:14:50.629050Z"
   },
   {
-    "id": "6C7ErfIlzVYbWVzs2xfpK",
-    "barcode": "48571035",
-    "design": "Hhhhh",
+    "id": "dfBhzvWsbhtSTf7Xn20Y",
+    "barcode": "xO1xbltc",
+    "design": "u1ElYI",
+    "sizes": [
+      "M",
+      "L"
+    ],
+    "colors": [
+      "Blue",
+      "Purple",
+      "Yellow"
+    ],
+    "price": "6581",
+    "date": "2024-07-07T20:14:50.629069Z"
+  },
+  {
+    "id": "4Hk6egoHzmumtE0Ehc3x",
+    "barcode": "nZ7A8ygp",
+    "design": "KmXy6I",
+    "sizes": [
+      "G",
+      "XXL"
+    ],
+    "colors": [
+      "Purple",
+      "Green"
+    ],
+    "price": "8606",
+    "date": "2024-08-16T20:14:50.629088Z"
+  },
+  {
+    "id": "Yz9LI9sClTcBYxAN9v0b",
+    "barcode": "8zTkaf84",
+    "design": "9IJajM",
+    "sizes": [
+      "M"
+    ],
+    "colors": [
+      "Purple",
+      "White",
+      "Green"
+    ],
+    "price": "9532",
+    "date": "2024-03-29T20:14:50.629105Z"
+  },
+  {
+    "id": "2ULY7b9r9gSM4lwFkEKm",
+    "barcode": "tiNaij5k",
+    "design": "5Mv1hc",
+    "sizes": [
+      "Ui"
+    ],
+    "colors": [
+      "White"
+    ],
+    "price": "8080",
+    "date": "2025-02-19T20:14:50.629125Z"
+  },
+  {
+    "id": "ADu2CwaE4Zf69CcunE2D",
+    "barcode": "NMSBg0ax",
+    "design": "ayUieC",
+    "sizes": [
+      "XS",
+      "XXL"
+    ],
+    "colors": [
+      "White",
+      "Green"
+    ],
+    "price": "6429",
+    "date": "2024-05-24T20:14:50.629144Z"
+  },
+  {
+    "id": "ksn5UXVQDIAanobQXRMi",
+    "barcode": "W3jnwprL",
+    "design": "033NV0",
+    "sizes": [
+      "S",
+      "Y",
+      "L"
+    ],
+    "colors": [
+      "Green",
+      "Black",
+      "Purple"
+    ],
+    "price": "6213",
+    "date": "2024-08-06T20:14:50.629162Z"
+  },
+  {
+    "id": "zRs5jENsPW3qXQUuqqPw",
+    "barcode": "G4qWKBSY",
+    "design": "NpcZPb",
+    "sizes": [
+      "XXL",
+      "XS"
+    ],
+    "colors": [
+      "White"
+    ],
+    "price": "4158",
+    "date": "2025-02-10T20:14:50.629180Z"
+  },
+  {
+    "id": "naq3MZKbxJKNsjEWgcLH",
+    "barcode": "CDsf43m5",
+    "design": "AOdC4p",
+    "sizes": [
+      "L",
+      "XS",
+      "M"
+    ],
+    "colors": [
+      "Purple"
+    ],
+    "price": "3259",
+    "date": "2024-04-29T20:14:50.629201Z"
+  },
+  {
+    "id": "DYsVEWG4j30XbBBNduk8",
+    "barcode": "R8IzjKTI",
+    "design": "a6AK31",
+    "sizes": [
+      "M"
+    ],
+    "colors": [
+      "White",
+      "Blue"
+    ],
+    "price": "854",
+    "date": "2024-07-13T20:14:50.629219Z"
+  },
+  {
+    "id": "k4uq222aGYy4qq17xzb7",
+    "barcode": "jTBS6XkN",
+    "design": "WIc8iH",
+    "sizes": [
+      "Ui",
+      "L"
+    ],
+    "colors": [
+      "Yellow",
+      "White",
+      "Black"
+    ],
+    "price": "9301",
+    "date": "2024-09-08T20:14:50.629236Z"
+  },
+  {
+    "id": "H9uT5OyqnUz50JVtIfJF",
+    "barcode": "7xXfOHA0",
+    "design": "ptZlBJ",
+    "sizes": [
+      "XL"
+    ],
+    "colors": [
+      "Green"
+    ],
+    "price": "677",
+    "date": "2025-01-22T20:14:50.629254Z"
+  },
+  {
+    "id": "sGxSfFBLA2KFkX9waMnk",
+    "barcode": "wkm18yKH",
+    "design": "JAxoME",
+    "sizes": [
+      "L",
+      "G"
+    ],
+    "colors": [
+      "White",
+      "Black"
+    ],
+    "price": "758",
+    "date": "2024-10-29T20:14:50.629293Z"
+  },
+  {
+    "id": "Y7JjsNdYNf5S1JXk0TqV",
+    "barcode": "R1jOic01",
+    "design": "GR2Djx",
     "sizes": [
       "Y",
+      "S"
+    ],
+    "colors": [
+      "Purple"
+    ],
+    "price": "5277",
+    "date": "2025-03-05T20:14:50.629311Z"
+  },
+  {
+    "id": "1wEmx9v06ixcB1SUxLKM",
+    "barcode": "JXNgSl2O",
+    "design": "vlcT4z",
+    "sizes": [
+      "Ui",
+      "M"
+    ],
+    "colors": [
+      "Yellow",
+      "Orange"
+    ],
+    "price": "5695",
+    "date": "2024-11-17T20:14:50.629330Z"
+  },
+  {
+    "id": "K5zt6oQ4AklvWAzIEtQT",
+    "barcode": "KlOCrOd3",
+    "design": "bjYDtv",
+    "sizes": [
+      "Y",
+      "XXL",
+      "G"
+    ],
+    "colors": [
+      "Orange"
+    ],
+    "price": "1221",
+    "date": "2024-09-01T20:14:50.629349Z"
+  },
+  {
+    "id": "jgslmZyJUwf5VYKtcQ1W",
+    "barcode": "DKDBx2k2",
+    "design": "yEyUNQ",
+    "sizes": [
+      "XL"
+    ],
+    "colors": [
+      "Blue",
+      "Red",
+      "White"
+    ],
+    "price": "7493",
+    "date": "2024-08-24T20:14:50.629367Z"
+  },
+  {
+    "id": "23i6BmkW83w4DpGbmEWZ",
+    "barcode": "nBLJje7R",
+    "design": "x524OW",
+    "sizes": [
       "G",
+      "S",
+      "M"
+    ],
+    "colors": [
+      "White",
+      "Red"
+    ],
+    "price": "4335",
+    "date": "2024-10-15T20:14:50.629394Z"
+  },
+  {
+    "id": "p3JnJUnfkk0VuhqjXebB",
+    "barcode": "JdXuAZYO",
+    "design": "OvXyzK",
+    "sizes": [
+      "S",
+      "XXL"
+    ],
+    "colors": [
+      "Yellow",
+      "Green"
+    ],
+    "price": "8672",
+    "date": "2024-08-27T20:14:50.629412Z"
+  },
+  {
+    "id": "PNOiZ0oOMLbfFq8QUsx4",
+    "barcode": "11hOuCrq",
+    "design": "Tr17rT",
+    "sizes": [
+      "Ty",
+      "L"
+    ],
+    "colors": [
+      "Purple"
+    ],
+    "price": "5509",
+    "date": "2025-01-22T20:14:50.629430Z"
+  },
+  {
+    "id": "zOfpzxW6GbMUokxvqBMc",
+    "barcode": "W7mfGHrd",
+    "design": "tiitsR",
+    "sizes": [
+      "Ui"
+    ],
+    "colors": [
+      "Orange",
+      "White",
+      "Blue"
+    ],
+    "price": "9617",
+    "date": "2024-07-12T20:14:50.629452Z"
+  },
+  {
+    "id": "pHMWx6ZrDE1Re1LxvTst",
+    "barcode": "kJqyDPzI",
+    "design": "8fhqhL",
+    "sizes": [
+      "L"
+    ],
+    "colors": [
+      "Yellow",
+      "Purple",
+      "Orange"
+    ],
+    "price": "2734",
+    "date": "2024-08-18T20:14:50.629480Z"
+  },
+  {
+    "id": "nqyNOvPK5MqZg0MYbGA5",
+    "barcode": "R3ygCzal",
+    "design": "2RmcsM",
+    "sizes": [
+      "L",
+      "XS"
+    ],
+    "colors": [
+      "White",
+      "Red",
+      "Yellow"
+    ],
+    "price": "360",
+    "date": "2024-08-05T20:14:50.629505Z"
+  },
+  {
+    "id": "ZOFNx7a9G3gFDy9VAY2f",
+    "barcode": "bs9OGJFt",
+    "design": "R2tO6l",
+    "sizes": [
+      "S",
+      "Ty",
+      "M"
+    ],
+    "colors": [
+      "Purple",
+      "Blue",
+      "White"
+    ],
+    "price": "9165",
+    "date": "2024-12-04T20:14:50.629527Z"
+  },
+  {
+    "id": "ZPezj34PmPsHJwNhSTL5",
+    "barcode": "SoxvfP2n",
+    "design": "hvGwq8",
+    "sizes": [
+      "S",
+      "XXL"
+    ],
+    "colors": [
+      "Green",
+      "Red",
+      "Black"
+    ],
+    "price": "7653",
+    "date": "2024-04-13T20:14:50.629546Z"
+  },
+  {
+    "id": "0Ide4DcjPQt5muIVdyFD",
+    "barcode": "F1nhGW3K",
+    "design": "BhDgrY",
+    "sizes": [
+      "G"
+    ],
+    "colors": [
+      "Red",
+      "Green",
+      "Orange"
+    ],
+    "price": "1091",
+    "date": "2024-08-12T20:14:50.629565Z"
+  },
+  {
+    "id": "4JDdsqbDymPJqQvD6a3p",
+    "barcode": "hPD720wf",
+    "design": "FbmFSj",
+    "sizes": [
+      "XL",
+      "S"
+    ],
+    "colors": [
+      "Black"
+    ],
+    "price": "5433",
+    "date": "2024-08-14T20:14:50.629581Z"
+  },
+  {
+    "id": "hQf1m4J2Lyall9jdsBtF",
+    "barcode": "6IANVuKs",
+    "design": "8N6W9O",
+    "sizes": [
+      "S",
+      "Y"
+    ],
+    "colors": [
+      "Purple",
+      "Green"
+    ],
+    "price": "6707",
+    "date": "2025-01-14T20:14:50.629598Z"
+  },
+  {
+    "id": "ViKs9ciYuZKqfry84LvW",
+    "barcode": "qrLTwT42",
+    "design": "CrSZKr",
+    "sizes": [
+      "L",
+      "S",
+      "G"
+    ],
+    "colors": [
+      "Black",
+      "Yellow",
+      "Purple"
+    ],
+    "price": "1420",
+    "date": "2024-07-27T20:14:50.629616Z"
+  },
+  {
+    "id": "Pp9ESMtwQJFtPNPXl4ko",
+    "barcode": "AHRHA71L",
+    "design": "aaRsGN",
+    "sizes": [
+      "M",
+      "XL",
+      "G"
+    ],
+    "colors": [
+      "Black"
+    ],
+    "price": "372",
+    "date": "2024-09-10T20:14:50.629633Z"
+  },
+  {
+    "id": "WD5EYW9vNMRwod1mlAJE",
+    "barcode": "ljW0Nayw",
+    "design": "Ovopd6",
+    "sizes": [
+      "L"
+    ],
+    "colors": [
+      "White",
+      "Orange"
+    ],
+    "price": "8617",
+    "date": "2025-02-09T20:14:50.629650Z"
+  },
+  {
+    "id": "IWh1LOMqspC4zAl9gwDC",
+    "barcode": "RM5OIloa",
+    "design": "GVny8R",
+    "sizes": [
+      "Ty",
+      "Y",
+      "S"
+    ],
+    "colors": [
+      "Black",
+      "Blue"
+    ],
+    "price": "8844",
+    "date": "2024-12-08T20:14:50.629668Z"
+  },
+  {
+    "id": "ZjoYCToak6BggbxCwsk8",
+    "barcode": "RbQfXYfQ",
+    "design": "TMyVzb",
+    "sizes": [
       "Ui"
     ],
     "colors": [
       "Yellow",
-      "Blue"
+      "White"
     ],
-    "price": "23",
-    "date": "2025-03-18T15:19:32.692Z"
+    "price": "9495",
+    "date": "2024-04-04T20:14:50.629686Z"
   },
   {
-    "id": "Gj-s3ftK12CNW28Z9hR99",
-    "barcode": "Qwerty",
-    "design": "56655",
+    "id": "7r4yskztcR3oEpvFmhhG",
+    "barcode": "eD7BJ3tz",
+    "design": "7JRxZL",
     "sizes": [
-      "Ty"
+      "Ui"
     ],
     "colors": [
-      "Ghh"
+      "Green",
+      "White"
     ],
-    "price": "5669",
-    "date": "2025-03-18T15:21:57.013Z"
+    "price": "9869",
+    "date": "2024-05-31T20:14:50.629703Z"
+  },
+  {
+    "id": "sUmFPFeidNTVUSID6Bjx",
+    "barcode": "DEshuZLF",
+    "design": "MjlaWn",
+    "sizes": [
+      "XL"
+    ],
+    "colors": [
+      "Yellow"
+    ],
+    "price": "5223",
+    "date": "2024-09-09T20:14:50.629723Z"
+  },
+  {
+    "id": "z5qqlkF3pLxPCVoEHGYR",
+    "barcode": "VoS9swJk",
+    "design": "IjwEm2",
+    "sizes": [
+      "Ui"
+    ],
+    "colors": [
+      "Green",
+      "White",
+      "Purple"
+    ],
+    "price": "7288",
+    "date": "2025-02-09T20:14:50.629752Z"
+  },
+  {
+    "id": "0P5O9niTHdun1CAqiiVm",
+    "barcode": "GRvrD4Lr",
+    "design": "QrxTMr",
+    "sizes": [
+      "M",
+      "Y"
+    ],
+    "colors": [
+      "Blue"
+    ],
+    "price": "6858",
+    "date": "2024-09-12T20:14:50.629779Z"
+  },
+  {
+    "id": "rNKsvsjZ59KZ0xs8ECnr",
+    "barcode": "y5KGeXBN",
+    "design": "uVFdAl",
+    "sizes": [
+      "Ui",
+      "G",
+      "M"
+    ],
+    "colors": [
+      "Purple"
+    ],
+    "price": "8634",
+    "date": "2024-12-19T20:14:50.629810Z"
+  },
+  {
+    "id": "38h6ENastzQNwLFESFfw",
+    "barcode": "9GrWbRCJ",
+    "design": "liHJte",
+    "sizes": [
+      "G"
+    ],
+    "colors": [
+      "White"
+    ],
+    "price": "7083",
+    "date": "2024-11-28T20:14:50.629836Z"
+  },
+  {
+    "id": "IYxXv16pJdf70pMegwJL",
+    "barcode": "XmiwyNEK",
+    "design": "ab6uu9",
+    "sizes": [
+      "Ui",
+      "XL"
+    ],
+    "colors": [
+      "Purple",
+      "Blue"
+    ],
+    "price": "1228",
+    "date": "2024-06-18T20:14:50.629868Z"
+  },
+  {
+    "id": "DeQg6MtntQ5MxcGQ56b0",
+    "barcode": "dpSfJi9O",
+    "design": "k8XZFf",
+    "sizes": [
+      "G",
+      "XXL",
+      "Ui"
+    ],
+    "colors": [
+      "White"
+    ],
+    "price": "3331",
+    "date": "2024-11-17T20:14:50.629896Z"
+  },
+  {
+    "id": "4fDeZGlwpwxLNIwNSWCc",
+    "barcode": "NEyWZowh",
+    "design": "6qxYjQ",
+    "sizes": [
+      "XL",
+      "S"
+    ],
+    "colors": [
+      "Yellow",
+      "Blue",
+      "Green"
+    ],
+    "price": "6843",
+    "date": "2024-09-11T20:14:50.629928Z"
+  },
+  {
+    "id": "OaquYwV22wtWualdWQXJ",
+    "barcode": "F7WruVtq",
+    "design": "uXMyxi",
+    "sizes": [
+      "Y",
+      "S"
+    ],
+    "colors": [
+      "White",
+      "Orange"
+    ],
+    "price": "2452",
+    "date": "2025-02-13T20:14:50.629955Z"
+  },
+  {
+    "id": "JSklVyEz9qT9SXZ1asvF",
+    "barcode": "mKR4jODn",
+    "design": "tJ4Epb",
+    "sizes": [
+      "L",
+      "S"
+    ],
+    "colors": [
+      "Red"
+    ],
+    "price": "5915",
+    "date": "2024-08-29T20:14:50.629987Z"
+  },
+  {
+    "id": "ky3zv7qOFS6jzon13Cak",
+    "barcode": "FgvfFLdD",
+    "design": "AuX5Ls",
+    "sizes": [
+      "XL"
+    ],
+    "colors": [
+      "Orange"
+    ],
+    "price": "1264",
+    "date": "2024-06-16T20:14:50.630007Z"
+  },
+  {
+    "id": "ZkGtLSUqMIBFLPO7knTB",
+    "barcode": "l3Nl8j8s",
+    "design": "xYWTTd",
+    "sizes": [
+      "G",
+      "L"
+    ],
+    "colors": [
+      "Red",
+      "Orange",
+      "Purple"
+    ],
+    "price": "7951",
+    "date": "2024-05-29T20:14:50.630025Z"
+  },
+  {
+    "id": "wu599A6cTpiFjqBNZHAh",
+    "barcode": "7yWZNjVR",
+    "design": "ejRxfe",
+    "sizes": [
+      "L"
+    ],
+    "colors": [
+      "Green",
+      "Purple",
+      "Yellow"
+    ],
+    "price": "3188",
+    "date": "2024-07-21T20:14:50.630044Z"
   }
 ]
