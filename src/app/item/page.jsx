@@ -134,11 +134,15 @@ const Page = () => {
       {/* Filter Dropdowns */}
       <div
         className={styles.filterSection}
-        onClick={() => setsShowFilter(!showFilter)}
         style={{ display: showFilter ? "flex" : "none" }}
       >
         <h2 className={styles.filterInfo}>
-          FITER THE ITEMS <X size={28} strokeWidth={0.75} />
+          FITER THE ITEMS{" "}
+          <X
+            onClick={() => setsShowFilter(!showFilter)}
+            size={28}
+            strokeWidth={0.75}
+          />
         </h2>
         <div className={styles.filterSelection}>
           <ALargeSmall size={28} strokeWidth={0.75} />
